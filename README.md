@@ -28,8 +28,8 @@ I Working in the Development sector Since 2018 I work on Php, laravel, HTML, CSS
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/anandrajak2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/anand-rajak-850834106/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/anandrajak2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/anand-rajak-850834106/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a>
 
 </p>
 
