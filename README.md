@@ -4,7 +4,17 @@ Hi 👋 My name is Anand Rajak
 Software Engineer
 -----------------
 
-I Working in the Development sector Since 2018 I work on Php, laravel, HTML, CSS, and javaScript, after Switching my career to a mobile Application Developer I Learned Flutter And Dart to Create Android Applications.
+I am a software engineer with expertise in Dart and Flutter, as well as Laravel since 2018. I have a strong foundation in computer science and programming concepts, and I have always been passionate about technology and its potential to transform the world.
+
+In my current role, I am responsible for designing, developing, and deploying software solutions using Dart and Flutter. I collaborate with cross-functional teams to understand business requirements and translate them into functional software applications. I work closely with product managers, designers, and other developers to ensure the successful implementation of software solutions.
+
+Prior to working with Dart and Flutter, I gained extensive experience in Laravel, a popular PHP framework used for web development. I have developed and deployed numerous web applications using Laravel and have a deep understanding of the framework's capabilities and limitations.
+
+My technical skills also include proficiency in databases, API development, and front-end technologies such as HTML, CSS, and JavaScript. I am comfortable working in both Linux and Windows environments and have experience with version control systems such as Git.
+
+Throughout my career, I have been recognized for my strong problem-solving skills, attention to detail, and ability to learn quickly. I enjoy working in a fast-paced environment and am passionate about developing innovative solutions to complex problems.
+
+When I'm not coding, I enjoy hiking, playing guitar, and spending time with my family
 
 * 🌍  I'm based in Madhya Pradesh India
 * ✉️  You can contact me at [anandrajak4@gmail.com](mailto:anandrajak4@gmail.com)
