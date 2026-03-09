@@ -1,64 +1,57 @@
 # 👋 Hi, I'm Anand Rajak
 
 ### 🚀 Software Engineer | Flutter & Laravel Specialist
+**Crafting seamless mobile experiences and robust backend architectures since 2018.**
 
-I’m a passionate Software Engineer with strong expertise in **Flutter**, **Dart**, and **Laravel**, crafting cross-platform apps and scalable web solutions since 2018. With a solid foundation in computer science, I’m driven by technology’s ability to transform ideas into real-world impact.
-
-Currently, I design, develop, and deploy high-quality mobile apps using Flutter, collaborating with cross-functional teams to turn concepts into elegant solutions. My role spans frontend UI development, API integration, backend architecture, and maintaining clean, scalable codebases.
-
-### 👨‍💻 What I Bring to the Table
-
-- ✅ Full lifecycle app development in **Flutter**
-- ✅ Backend development using **Laravel**
-- ✅ Integration of REST APIs, Firebase, Hive (NoSQL), and more
-- ✅ Proficiency in **HTML**, **CSS**, **JavaScript**
-- ✅ Strong collaboration, version control (Git), and troubleshooting skills
-
-Beyond tech, I’m recognized for my quick learning, problem-solving mindset, and attention to detail. I thrive in fast-paced, agile environments and enjoy creating elegant solutions to real-world problems.
-
-> 🧭 When I'm not coding, I enjoy hiking, playing guitar, and spending time with my family.
+I am a passionate Software Engineer dedicated to building high-performance, cross-platform applications. My expertise lies in the **Flutter/Dart** ecosystem for frontend excellence and **Laravel/PHP** for scalable server-side logic. I bridge the gap between complex backend systems and elegant, user-centric mobile interfaces.
 
 ---
 
-- 🌍 Based in Madhya Pradesh, India  
-- ✉️ Reach me at [anandrajak4@gmail.com](mailto:anandrajak4@gmail.com)  
-- 💼 Currently working at [Bit01 Techplode Pvt Ltd](https://bit01.tech)  
-- 🧠 Currently learning **Advanced Flutter** and **BLoC Pattern**
+### 👨‍💻 What I Do
+* **Mobile:** Expert in Flutter lifecycle, State Management (Provider, BLoC), and Native Integrations.
+* **Backend:** Building RESTful APIs and microservices with Laravel and MySQL.
+* **Database:** Proficient in Firebase, Hive (NoSQL), and relational database design.
+* **DevOps/Tools:** Version control with Git, API testing via Postman, and Agile workflows.
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" /></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart" /></a>
- 
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" /></a>
-  <a href="https://docs.hivedb.dev/#/" target="_blank"><img src="https://dbdb.io/media/logos/hive.svg" width="70" height="70" alt="Hive DB" /></a>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <br>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-### 🌐 Socials
+### 📈 GitHub Ecosystem
 
-<p align="left">
-  <a href="https://github.com/anandrajak2" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/anand-rajak-850834106/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anandrajak2&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajak2&langs_count=10&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajak2&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Connect with Me
+- 🌍 Based in **Madhya Pradesh, India**
+- 💼 Currently working at **[Bit01 Techplode Pvt Ltd](https://bit01.tech)**
+- 🧠 Learning **Advanced BLoC** and **Clean Architecture**
+- ✉️ Email: [anandrajak4@gmail.com](mailto:anandrajak4@gmail.com)
+- 🔗 LinkedIn: [Anand Rajak](https://www.linkedin.com/in/anand-rajak-850834106/)
 
-<a href="http://www.github.com/anandrajak2"><img src="https://github-readme-stats.vercel.app/api?username=anandrajak2&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" /></a>
-
-<a href="http://www.github.com/anandrajak2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anandrajak2&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-
-<a href="http://www.github.com/anandrajak2"><img src="https://activity-graph.herokuapp.com/graph?username=anandrajak2&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" /></a>
-
-<a href="http://www.github.com/anandrajak2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandrajak2&langs_count=10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /></a>
+> 🧭 When I'm not coding, I'm likely hiking, playing guitar, or exploring new tech.
